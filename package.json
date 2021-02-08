@@ -12,6 +12,7 @@
   "author": "Mazen Tej",
   "license": "ISC",
   "dependencies": {
+    "@google-analytics/data": "^2.1.0",
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.19.0",
     "classnames": "^2.2.6",
@@ -22,6 +23,7 @@
     "mongoose": "^5.11.9",
     "passport": "^0.4.1",
     "passport-jwt": "^4.0.0",
+    "react-use-analytics-api": "^1.4.15",
     "validator": "^13.5.2"
   },
   "devDependencies": {
